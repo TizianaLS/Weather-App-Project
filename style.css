@@ -1,0 +1,84 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  color: #22313f;
+  font-weight: bold;
+}
+
+h2 {
+  padding-top: 0px 20px;
+  font-size: 70pt;
+  color: #e8630a;
+  margin: 30px;
+}
+
+p {
+  font-family: "Roboto Mono", monospace;
+}
+header {
+  padding: 20px;
+}
+#city {
+  border-radius: 8px;
+  border: 2px solid #22313f;
+  background-color: #e4f1fe;
+}
+#lupe {
+  border-radius: 8px;
+  border: 2px solid #22313f;
+  padding: 16px 20px;
+  background-color: #e4f1fe;
+  margin: 0px;
+}
+ul {
+  list-style: none;
+  padding: 10px 10px 20px;
+}
+li {
+  font-family: monospace;
+  font-size: 20px;
+  line-height: 30px;
+  color: #e8630a;
+}
+
+.placeholder {
+  text-emphasis-position: left;
+}
+
+.col-3 {
+  font-family: monospace;
+  padding: 20px 10px;
+}
+.card-text {
+  text-align: center;
+}
+
+.fa-cloud-rain,
+.fa-cloud-sun {
+  font-size: 50px;
+  text-align: center;
+  color: #9cd3d3;
+  margin: 0 auto;
+  padding: 20px;
+}
+.fa-cloud {
+  font-size: 100px;
+  text-align: center;
+  color: #9cd3d3;
+  margin: 0 auto;
+  padding: 20px;
+}
+.col-4 {
+  color: #22313f;
+  padding: 10px 40px;
+  font-size: 30px;
+  margin: 0 20px;
+}
+.container {
+  border: 3px solid #22313f;
+  border-radius: 4px;
+  padding: 20px 80px 20px 60px;
+  background-color: #e4f1fe;
+}
