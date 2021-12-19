@@ -85,4 +85,5 @@ li {
 .app {
   border: 3px solid #22313f;
   border-radius: 4px;
+  padding: 20px 80px 20px 60px;
 }
