@@ -38,7 +38,7 @@ ul {
 }
 li {
   font-family: monospace;
-  font-size: 20px;
+  font-size: 50px;
   line-height: 30px;
   color: #e8630a;
 }
@@ -72,7 +72,7 @@ li {
 }
 .col-4 {
   color: #22313f;
-  padding: 10px 40px;
+  padding: 40px;
   font-size: 30px;
   margin: 0 20px;
 }
